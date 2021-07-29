@@ -8,4 +8,4 @@ This is a nice example of chaos emerging from simple setup.
 
 This was insired by [Numberphile video](https://www.youtube.com/watch?v=6z4qRhpBIyA)
 
-![GIF bouncing balls](ball_in_circle.gif)
+![GIF bouncing balls](img/ball_in_circle.gif)
