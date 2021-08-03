@@ -9,3 +9,6 @@ This is a nice example of chaos emerging from simple setup.
 This was insired by [Numberphile video](https://www.youtube.com/watch?v=6z4qRhpBIyA)
 
 ![GIF bouncing balls](img/ball_in_circle.gif)
+
+## Solar System
+Trying to replicate a solar system with accurate units and values. Might become a 3 body simmulator later.
